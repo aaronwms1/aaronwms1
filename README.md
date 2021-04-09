@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aaronwms1. i like to build things especially in architecture and design, however, I have a passion for building things online and helping others acheive their vision through graphics and artistic expression.
-- 👀 I’m interested in ..building furniture with web dev tools and oil painting.
+- 👋 Hi, I’m @aaronwms1. i like to build things relative to architecture and design, however, I have a passion for solvning problems with web apps and helping others acheive their vision through graphics and artistic expression.
+- 👀 I’m interested in cycling, building furniture and oil painting.
 - 🌱 I’m currently learning ...all languages.
 - 💞️ I’m looking to collaborate on ...any creative projects that promote growth for underserved communities
 - 📫 How to reach me ...aaron2047@gmail.com
